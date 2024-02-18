@@ -6,5 +6,5 @@ Film ve dizi izleme platformu
 
 CSS ve HTML kullanarak yapılmıştır
 
-![](Video_240218175822.mp4)
+![](netflix.gif)
 
